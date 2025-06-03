@@ -1,0 +1,15 @@
+C:\Users\Dragzull\Desktop\27\27\bin\Debug\27.exe.config
+C:\Users\Dragzull\Desktop\27\27\bin\Debug\27.exe
+C:\Users\Dragzull\Desktop\27\27\bin\Debug\27.pdb
+C:\Users\Dragzull\Desktop\27\27\obj\Debug\27.csproj.AssemblyReference.cache
+C:\Users\Dragzull\Desktop\27\27\obj\Debug\MainWindow.baml
+C:\Users\Dragzull\Desktop\27\27\obj\Debug\MainWindow.g.cs
+C:\Users\Dragzull\Desktop\27\27\obj\Debug\App.g.cs
+C:\Users\Dragzull\Desktop\27\27\obj\Debug\27_MarkupCompile.cache
+C:\Users\Dragzull\Desktop\27\27\obj\Debug\27.g.resources
+C:\Users\Dragzull\Desktop\27\27\obj\Debug\_27.Properties.Resources.resources
+C:\Users\Dragzull\Desktop\27\27\obj\Debug\27.csproj.GenerateResource.cache
+C:\Users\Dragzull\Desktop\27\27\obj\Debug\27.csproj.CoreCompileInputs.cache
+C:\Users\Dragzull\Desktop\27\27\obj\Debug\27.exe
+C:\Users\Dragzull\Desktop\27\27\obj\Debug\27.pdb
+C:\Users\Dragzull\Desktop\27\27\obj\Debug\27.exe.config

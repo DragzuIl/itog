@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dragzull\\Desktop\\27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB30D60-B187-4C87-A7DF-F984C685A6F0}|27\\27.csproj|c:\\users\\dragzull\\desktop\\27\\27\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DB30D60-B187-4C87-A7DF-F984C685A6F0}|27\\27.csproj|solutionrelative:27\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB30D60-B187-4C87-A7DF-F984C685A6F0}|27\\27.csproj|C:\\Users\\Dragzull\\Desktop\\27\\27\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB30D60-B187-4C87-A7DF-F984C685A6F0}|27\\27.csproj|solutionrelative:27\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB30D60-B187-4C87-A7DF-F984C685A6F0}|27\\27.csproj|c:\\users\\dragzull\\desktop\\27\\27\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DB30D60-B187-4C87-A7DF-F984C685A6F0}|27\\27.csproj|solutionrelative:27\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB30D60-B187-4C87-A7DF-F984C685A6F0}|27\\27.csproj|c:\\users\\dragzull\\desktop\\27\\27\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB30D60-B187-4C87-A7DF-F984C685A6F0}|27\\27.csproj|solutionrelative:27\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dragzull\\Desktop\\27\\27\\App.xaml.cs",
+              "RelativeDocumentMoniker": "27\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Dragzull\\Desktop\\27\\27\\App.xaml.cs",
+              "RelativeToolTip": "27\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:55:27.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Dragzull\\Desktop\\27\\27\\App.xaml",
+              "RelativeDocumentMoniker": "27\\App.xaml",
+              "ToolTip": "C:\\Users\\Dragzull\\Desktop\\27\\27\\App.xaml",
+              "RelativeToolTip": "27\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T16:55:23.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Dragzull\\Desktop\\27\\27\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "27\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Dragzull\\Desktop\\27\\27\\MainWindow.xaml",
+              "RelativeToolTip": "27\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T16:54:12.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dragzull\\Desktop\\27\\27\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "27\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Dragzull\\Desktop\\27\\27\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "27\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAwIAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:42:16.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
